@@ -1,0 +1,10 @@
+body{
+    text-align:"justify";
+    max-width: 80%;
+    margin: 0 auto;
+}
+h1{
+    color: black;
+    font-family: Verdana;
+    font-size: 3em;
+}
